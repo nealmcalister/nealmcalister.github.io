@@ -7,30 +7,32 @@
 }
 #nav {
   list-style-type: none;
+  padding-left: 0px;
+  padding-right: 0px;
   margin: 0;
   padding-top: 10px;
   padding-bottom: 10px;
 }
 #nav-li {
   display: inline;
-  padding-left: 10px;
+  padding-right: 10px;
   font-family: "bookman old style";
   font-weight: bold;
   font-size: 16px;
 }
 #out {
+  padding-left: 0px;
   list-style-type: none;
   padding-top: 10px;
 }
 #out-li {
-  padding-left: 10px;
+  padding-left: 0px;
   padding-bottom: 2.5px;
   font-family: "bookman old style";
   font-weight: bold;
   font-size: 16px;
 }
 p.lcol {
-    padding-left: 50px;
     padding-bottom: 2.5px;
     font-family: "bookman old style";
     font-size: 16px;
