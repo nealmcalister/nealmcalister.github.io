@@ -32,6 +32,9 @@
   font-weight: bold;
   font-size: 16px;
 }
+#out-li a:hover {
+  color: white;
+}
 p.lcol {
     padding-bottom: 2.5px;
     font-family: "bookman old style";
@@ -63,9 +66,6 @@ a:visited.navi {
 a:link.out {
   color: lightgrey;
 }
-a:hover.out {
-  color: #c6c6c6;
-}
 a:visited.out {
-  color: lightgrey;
+  color: grey;
 }
