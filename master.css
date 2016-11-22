@@ -1,0 +1,69 @@
+#header {
+  background-image: url("img/header.jpeg");
+  background-size: 100% 250px;
+}
+#headnav{
+  font-family: "Bookman Old Style";
+}
+#nav {
+  list-style-type: none;
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#nav-li {
+  display: inline;
+  padding-left: 10px;
+  font-family: "bookman old style";
+  font-weight: bold;
+  font-size: 16px;
+}
+#out {
+  list-style-type: none;
+  padding-top: 10px;
+}
+#out-li {
+  padding-left: 10px;
+  padding-bottom: 2.5px;
+  font-family: "bookman old style";
+  font-weight: bold;
+  font-size: 16px;
+}
+p.lcol {
+    padding-left: 50px;
+    padding-bottom: 2.5px;
+    font-family: "bookman old style";
+    font-size: 16px;
+    color: #c6c6c6;
+    text-align: justify;
+}
+#content {
+  padding-top: 15px;
+}
+body {
+  background-color: #1c1c1c;
+}
+h1 {
+  color: #fba350;
+  font-family: "Bookman Old Style";
+  font-weight: bold;
+  text-shadow: .5px .5px white;
+}
+a:link.navi {
+  color: white;
+}
+a:hover.navi {
+  color: lightgrey;
+}
+a:visited.navi {
+  color: lightgrey;
+}
+a:link.out {
+  color: #c6c6c6;
+}
+a:hover.out {
+  color: #c6c6c6;
+}
+a:visited.out {
+  color: grey;
+}
