@@ -61,11 +61,11 @@ a:visited.navi {
   color: lightgrey;
 }
 a:link.out {
-  color: #c6c6c6;
+  color: lightgrey;
 }
 a:hover.out {
   color: #c6c6c6;
 }
 a:visited.out {
-  color: grey;
+  color: lightgrey;
 }
