@@ -1,6 +1,6 @@
 #header {
-  background-image: url("img/header.jpeg");
-  background-size: 100% 250px;
+  background-image: url("img/header_2.jpg");
+  background-size: 100%, 100%;
 }
 #headnav{
   font-family: "Bookman Old Style";
@@ -39,33 +39,30 @@ p.lcol {
     padding-bottom: 2.5px;
     font-family: "bookman old style";
     font-size: 16px;
-    color: #c6c6c6;
+    color: #204f08;
     text-align: justify;
 }
 #content {
   padding-top: 15px;
 }
 body {
-  background-color: #1c1c1c;
+  background-color: lightgrey;
 }
 h1 {
-  color: #fba350;
+  color: lightgrey;
   font-family: "Bookman Old Style";
   font-weight: bold;
-  text-shadow: .5px .5px white;
+  text-shadow: 3px 3px #204f08;
 }
 a:link.navi {
-  color: white;
+  color: #204f08;
 }
 a:hover.navi {
-  color: lightgrey;
 }
 a:visited.navi {
-  color: lightgrey;
+  color: black
 }
 a:link.out {
-  color: lightgrey;
 }
 a:visited.out {
-  color: grey;
 }
