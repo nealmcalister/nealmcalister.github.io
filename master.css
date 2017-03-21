@@ -65,3 +65,21 @@ a:link.out {
 }
 a:visited.out {
 }
+* {
+  margin: 0;
+}
+html, body {
+    height: 100%;
+}
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -24px;
+}
+.footer {
+    height: 24px;
+}
+.push {
+    height: 24px;
+}
